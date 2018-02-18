@@ -1,0 +1,2 @@
+# Object_Oriented_Design-Bus_Transport_System
+This is an Object Oriented Design project to develop a system depicting the management of a Transportation Services System. The entire environment is interdependent on each other and involves real time updates to add to the complexity. The main actors involved are a Central Control System, Drivers and Commuters. We intend to develop a transport system that aims at smooth functioning with zero inconvenience to commuters.
